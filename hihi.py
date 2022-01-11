@@ -29,3 +29,4 @@ while 1:
     if q == 'N': break
     
 print('주차차량 %d대의 총 주차 요금은 %d원입니다.' %(count, total)   )
+#zzzzz
